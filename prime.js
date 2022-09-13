@@ -9,5 +9,5 @@ for(var i=1; i<=num; i++){
 if(count==2){
 console.log("Prime")
 }else{
-console.log("Not prime"
+console.log("Not prime")
 }
